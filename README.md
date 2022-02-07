@@ -1,4 +1,4 @@
-# My solutions to the codility lessons/excersises
+# My solutions to the codility lessons/excersises in JavaScript
 - Binary Gap: https://app.codility.com/demo/results/trainingY4ERM4-9V4/
 - CyclicRotation: https://app.codility.com/demo/results/trainingTQRSHY-YMV/
 - FrogJump: https://app.codility.com/demo/results/trainingSGUXNU-2RK/
