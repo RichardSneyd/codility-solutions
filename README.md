@@ -1,4 +1,5 @@
 # My solutions to the codility lessons/excersises in JavaScript
+All of these solutions are optimized for time complexity, and achieve a 100% score.
 - Binary Gap: https://app.codility.com/demo/results/trainingY4ERM4-9V4/
 - CyclicRotation: https://app.codility.com/demo/results/trainingTQRSHY-YMV/
 - FrogJump: https://app.codility.com/demo/results/trainingSGUXNU-2RK/
