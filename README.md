@@ -9,3 +9,6 @@ All of these solutions are optimized for time complexity, and achieve a 100% sco
 - PermCheck: https://app.codility.com/demo/results/trainingJFW5UG-EYT/
 - PermMissingElem: https://app.codility.com/demo/results/trainingXXBUG5-MX9/
 - TapeEquilibrium: https://app.codility.com/demo/results/trainingKPRF4W-3R8/
+- CountDiv: https://app.codility.com/demo/results/training8PQNJ5-74P/
+- GenomicRangeQuery: https://app.codility.com/demo/results/trainingFM7EPJ-MYJ/
+- MinAvgTwoSlice: https://app.codility.com/demo/results/trainingK6V5DB-C42/
