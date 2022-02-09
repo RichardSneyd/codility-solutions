@@ -16,4 +16,5 @@ All of these solutions are optimized for time complexity, and achieve a 100% sco
 - MaxProductOfThree: https://app.codility.com/demo/results/trainingY3G7Q6-UMY/
 - Triangle: https://app.codility.com/demo/results/trainingTJGK5B-DTW/
 - NumberOfDiskIntersections: https://app.codility.com/demo/results/trainingF2AXGU-K3Q/
+- Brackets: https://app.codility.com/demo/results/trainingX78UW3-479/
 
