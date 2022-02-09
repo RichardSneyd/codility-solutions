@@ -1,4 +1,3 @@
-// https://app.codility.com/demo/results/trainingK6V5DB-C42/
 
 function solution(A) {
     if(A.length <= 2) return 0;
